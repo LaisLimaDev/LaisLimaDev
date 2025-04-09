@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... math, physics, python e data science/engineering.
 - 🔮 I want to learn: quantum computing and statistics
 - 😄 Pronouns: (her-she/ela-dela)
-- ⚡ Fun fact: adoro  animais, trilha, natureza, ler, ciência e terror 🐱 🐕 🏞️ 🦇 🎃 🧛🏽‍♀️
+- ⚡ Fun fact: adoro  animais - sobretudo gatos -trilhas, natureza, ler, ciência e terror 🐱 🐕 🏞️ 🦇 🎃 🧛🏽‍♀️
 
 <div align="center">
   <a href="https://github.com/LaisLimaDev">
